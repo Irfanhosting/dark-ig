@@ -3,5 +3,4 @@ rich
 pytz
 pynacl
 requests
-pycryptodomex
 inquirer
